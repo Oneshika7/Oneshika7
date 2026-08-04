@@ -1,9 +1,6 @@
 <div align="center">
 
 <h3><code>oneshika7@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake.svg">
