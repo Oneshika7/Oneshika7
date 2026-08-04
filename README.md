@@ -3,6 +3,14 @@
 <h3><code>oneshika7@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" />
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="./github-contribution-grid-snake.svg">
+</picture>
+
 <br><br>
 
 <h3><code>oneshika7@github ~ $ whoami</code></h3>
