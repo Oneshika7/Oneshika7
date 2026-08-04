@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 250" width="490" height="250">
+<style>
+  .bg { fill: #0d1117; }
+  text { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; font-size: 14px; fill: #c9d1d9; }
+  .key { fill: #58a6ff; font-weight: bold; }
+  .title { fill: #3fb950; font-weight: bold; }
+  @keyframes fadein { 0% { opacity: 0; transform: translateX(-10px); } 100% { opacity: 1; transform: translateX(0); } }
+</style>
+<rect width="490" height="250" class="bg" rx="10"/>
+<g style="opacity: 0; animation: fadein 0.5s forwards; animation-delay: 0.0s;">
+  <text x="20" y="40" class="title">oneshika7@github</text>
+  <text x="20" y="50" class="title">-----------------</text>
+</g>
+<g style="opacity: 0; animation: fadein 0.5s forwards; animation-delay: 0.2s;">
+  <text x="20" y="84">
+    <tspan class="key">role</tspan>: Software Developer
+  </text>
+</g>
+<g style="opacity: 0; animation: fadein 0.5s forwards; animation-delay: 0.4s;">
+  <text x="20" y="112">
+    <tspan class="key">stack</tspan>: Python, JavaScript, React, SQL
+  </text>
+</g>
+<g style="opacity: 0; animation: fadein 0.5s forwards; animation-delay: 0.6000000000000001s;">
+  <text x="20" y="140">
+    <tspan class="key">projects</tspan>: Animated Profile README
+  </text>
+</g>
+<g style="opacity: 0; animation: fadein 0.5s forwards; animation-delay: 0.8s;">
+  <text x="20" y="168">
+    <tspan class="key">contact</tspan>: vanshika7320@gmail.com
+  </text>
+</g>
+</svg>
