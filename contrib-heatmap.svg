@@ -1113,4 +1113,7 @@
 <g style="opacity: 0; animation: slideIn 0.5s forwards; animation-delay: 1.71s;">
   <rect x="738" y="80" width="11" height="11" fill="#0e4429" />
 </g>
+<g style="opacity: 0; animation: slideIn 0.5s forwards; animation-delay: 1.74s;">
+  <rect x="738" y="94" width="11" height="11" fill="#161b22" />
+</g>
 </svg>
